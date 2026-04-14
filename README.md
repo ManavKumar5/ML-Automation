@@ -77,17 +77,8 @@ An end-to-end **Machine Learning Automation Platform** built with Streamlit that
 FileManagement <img width="1836" height="872" alt="image" src="https://github.com/user-attachments/assets/243a5b1c-97c0-4d42-942f-5c0df3a0b9fa" />
 
 Preprocess Data <img width="1811" height="764" alt="image" src="https://github.com/user-attachments/assets/f4d98084-db77-402c-a916-7941833cacc5" />
-<img width="1804" height="507" alt="image" src="https://github.com/user-attachments/assets/c5cf9234-0ac3-4485-89b7-b1296fd0accb" />
-<img width="1782" height="440" alt="image" src="https://github.com/user-attachments/assets/dffeac72-131b-4c36-bd26-f263048b8198" />
-<img width="1786" height="875" alt="image" src="https://github.com/user-attachments/assets/a26ae5df-1c4c-4e11-8c73-427f5408aaee" />
-<img width="1782" height="891" alt="image" src="https://github.com/user-attachments/assets/aa260cb9-e74c-415d-bdee-2d7ce56a6633" />
-Before UnderSampling
-<img width="1787" height="644" alt="image" src="https://github.com/user-attachments/assets/006d89d5-2c11-49d3-8d17-6f53c5a19aae" />
-<img width="1774" height="634" alt="image" src="https://github.com/user-attachments/assets/35b9c475-f282-4361-a059-14a2faa2dd36" />
-After UnderSampling
-<img width="1770" height="616" alt="image" src="https://github.com/user-attachments/assets/e8b043db-82b4-4d46-a600-8ed6a28e580b" />
-<img width="1702" height="866" alt="image" src="https://github.com/user-attachments/assets/49c00e31-205d-4403-8594-b250181c506b" />
-Model Training <img width="1821" height="870" alt="image" src="https://github.com/user-attachments/assets/de07c2e6-abf7-40d5-8dc5-b63583ed56ac" />
+
+
 
 
 
