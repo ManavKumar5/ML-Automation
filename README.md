@@ -161,8 +161,8 @@ ml-automation/
 ## 📬 Contact
 
 **Manav Kumar**
-Gmail:("manavrameshkumar@gail.com")
-LinkedIn: ("www.linkedin.com/in/kumarmannavv")
+* Gmail: manavrameshkumar@gmail.com
+* LinkedIn: ("www.linkedin.com/in/kumarmannavv")
 
 ---
 
