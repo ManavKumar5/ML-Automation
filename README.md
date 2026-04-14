@@ -8,7 +8,7 @@ An end-to-end **Machine Learning Automation Platform** built with Streamlit that
 
 ## 🚀 Live Demo
 
-👉 https://querymind-14.streamlit.app/
+👉 SOON
 
 ---
 
@@ -20,24 +20,42 @@ An end-to-end **Machine Learning Automation Platform** built with Streamlit that
 * Preview data instantly
 * Manage and delete uploaded files
 
+---
+
 ### 🛠️ Data Preprocessing
 
 * Automatic handling of missing values
 * Encoding categorical variables
 * Feature scaling
 
+---
+
 ### 🤖 Model Training
 
 * Train multiple ML models
 * Supports both **classification & regression**
 * Automatic evaluation metrics (Accuracy, RMSE, etc.)
+* Export trained models as `.pkl` files
+
+---
+
+### ⚙️ Frontend Code Generator
+
+* Automatically generates **ready-to-use frontend code**
+* Helps in deploying ML models quickly
+* Reduces manual coding effort for prediction interfaces
+
+---
 
 ### 🧠 Frontend UI (Live Prediction)
 
-* Upload trained `.pkl` model
-* Auto-detect features from model
-* Real-time prediction interface
-* Probability visualization (for classification)
+* USE Saved Models/Upload trained `.pkl` model
+* Auto-detect feature names from model
+* Dynamic input form generation
+* Real-time predictions
+* Probability visualization (for classification models)
+
+---
 
 ---
 
@@ -56,7 +74,8 @@ An end-to-end **Machine Learning Automation Platform** built with Streamlit that
 
 ## 📸 Screenshots
 
-<img width="1836" height="872" alt="image" src="https://github.com/user-attachments/assets/243a5b1c-97c0-4d42-942f-5c0df3a0b9fa" />
+FileManagement = <img width="1836" height="872" alt="image" src="https://github.com/user-attachments/assets/243a5b1c-97c0-4d42-942f-5c0df3a0b9fa" />
+
 
 
 ---
