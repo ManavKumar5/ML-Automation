@@ -76,7 +76,6 @@ An end-to-end **Machine Learning Automation Platform** built with Streamlit that
 
 FileManagement <img width="1836" height="872" alt="image" src="https://github.com/user-attachments/assets/243a5b1c-97c0-4d42-942f-5c0df3a0b9fa" />
 
-Preprocess Data <img width="1811" height="764" alt="image" src="https://github.com/user-attachments/assets/f4d98084-db77-402c-a916-7941833cacc5" />
 
 
 
