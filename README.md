@@ -35,7 +35,7 @@ An end-to-end **Machine Learning Automation Platform** built with Streamlit that
 * Train multiple ML models
 * Supports both **classification & regression**
 * Automatic evaluation metrics (Accuracy, RMSE, etc.)
-* Export trained models as `.pkl` files
+* Save/Download trained models as `.pkl` files
 
 ---
 
