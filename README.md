@@ -161,7 +161,7 @@ ml-automation/
 ## 📬 Contact
 
 **Manav Kumar**
-Portfolio: https://manavkumar5.github.io
+Gmail:("manavrameshkumar@gail.com")
 LinkedIn: ("www.linkedin.com/in/kumarmannavv")
 
 ---
