@@ -162,7 +162,7 @@ ml-automation/
 
 **Manav Kumar**
 * Gmail: manavrameshkumar@gmail.com
-* LinkedIn: ("www.linkedin.com/in/kumarmannavv")
+* LinkedIn: www.linkedin.com/in/kumarmannavv
 
 ---
 
