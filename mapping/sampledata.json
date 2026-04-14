@@ -1,0 +1,41 @@
+{
+    "buying": {
+        "high": 0,
+        "low": 1,
+        "med": 2,
+        "vhigh": 3
+    },
+    "maint": {
+        "high": 0,
+        "low": 1,
+        "med": 2,
+        "vhigh": 3
+    },
+    "doors": {
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5more": 3
+    },
+    "persons": {
+        "2": 0,
+        "4": 1,
+        "more": 2
+    },
+    "lug_boot": {
+        "big": 0,
+        "med": 1,
+        "small": 2
+    },
+    "safety": {
+        "high": 0,
+        "low": 1,
+        "med": 2
+    },
+    "classes": {
+        "acc": 0,
+        "good": 1,
+        "unacc": 2,
+        "vgood": 3
+    }
+}

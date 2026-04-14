@@ -1,0 +1,41 @@
+{
+    "med": {
+        "high": 0,
+        "low": 1,
+        "med": 2,
+        "vhigh": 3
+    },
+    "vhigh": {
+        "high": 0,
+        "low": 1,
+        "med": 2,
+        "vhigh": 3
+    },
+    "5more": {
+        "2": 0,
+        "3": 1,
+        "4": 2,
+        "5more": 3
+    },
+    "4": {
+        "2": 0,
+        "4": 1,
+        "more": 2
+    },
+    "small": {
+        "big": 0,
+        "med": 1,
+        "small": 2
+    },
+    "low": {
+        "high": 0,
+        "low": 1,
+        "med": 2
+    },
+    "unacc": {
+        "acc": 0,
+        "good": 1,
+        "unacc": 2,
+        "vgood": 3
+    }
+}

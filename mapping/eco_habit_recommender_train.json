@@ -1,0 +1,38 @@
+{
+    "Location": {
+        "Rural": 0,
+        "Urban": 1
+    },
+    "Energy_Usage": {
+        "High": 0,
+        "Low": 1,
+        "Medium": 2
+    },
+    "Recycles": {
+        "No": 0,
+        "Yes": 1
+    },
+    "Transport_Type": {
+        "Bike": 0,
+        "Car": 1,
+        "Public Transport": 2,
+        "Walk": 3
+    },
+    "Interest_in_Gardening": {
+        "No": 0,
+        "Yes": 1
+    },
+    "Weather": {
+        "Cloudy": 0,
+        "Rainy": 1,
+        "Snowy": 2,
+        "Sunny": 3
+    },
+    "Habit_Recommendation": {
+        "Adopt reusable bags": 0,
+        "Consider biking or carpooling": 1,
+        "Start composting": 2,
+        "Switch to solar panels": 3,
+        "Use energy-efficient appliances": 4
+    }
+}
